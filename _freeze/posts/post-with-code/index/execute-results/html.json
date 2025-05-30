@@ -1,0 +1,15 @@
+{
+  "hash": "b7650bb21fb735a39c83cab3aae77116",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Climate Smart Agriculture in South Asia\"\nauthor: \"Raza Ullah Khan\"\ndate: \"2025-05-29\"\ncategories: [news,Participatory research, capacity building]\nimage: \"image.jpg\"\n---\n\n\nConsortium for scaling up climate smart agriculture (CSA) (C-SUCSeS) in South Asia is IFAD and SDF cofunded project aims at promoting CSA in South Asia. You can find the project[here](https://c-sucses.sac.org.bd/){target=\"_blank\"}\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

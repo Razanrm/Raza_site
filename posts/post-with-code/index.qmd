@@ -1,0 +1,9 @@
+---
+title: "Climate Smart Agriculture in South Asia (C-SUCSeS)"
+author: "Raza Ullah Khan"
+date: "2025-05-29"
+categories: [news,Participatory research, capacity building]
+image: "image.jpg"
+---
+
+The C-SUCSeS is IFAD and SDF cofunded project aims at promoting CSA in South Asia. project [here](https://c-sucses.sac.org.bd/){target="_blank"}

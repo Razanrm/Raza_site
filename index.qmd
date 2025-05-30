@@ -1,0 +1,20 @@
+---
+title: "Raza Ullah Khan"
+image: DSC_2829.JPG
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      href: https://x.com/
+    - icon: linkedin
+      href: https://www.linkedin.com
+   
+---
+
+Dr. Raza Ullah Khan is working as a Senior Program Specialist (SPS), Natural Resource Management (NRM) in SARRC Agriculture Centre (SAC), Dhaka, Bangladesh. He is also looking after consortium for Scaling-Up Climate Smart Agriculture in South Asia (C-SUCSeS), an SDF and IFAD cofunded project as the Regional Program Coordinator. His ROI are Climate Change, Carbon sequestration, Carbon Farming, Resource conservation and efficiency, Ecosystem services, Integrated Nutrient Management, Community-based Natural Resource Management and data visualization.
+
+Prior to joining SAC, Dr. Khan worked as the National Coordinator (Land Resources), Natural Resources Division, Pakistan Agricultural Research Council.
+
+Dr. Khan is member of several national and international forum and platforms; Soil Science Society of Pakistan, Global Soil Partnership, FAO (GSP), Global Soils Laboratory Network (GLOSOLAN), Asian Soils Laboratory Network (SEALNET), Soil biodiversity observation (SoilBON) as well as a reviewer of several national and international peer reviewed journals and on editorial board of Pakistan Journal of Agriculture Sciences.
+
+He earned PhD (Soil and Plant nutrition) from Massey University, New Zealand and MSc (Hon.) Soil science from Agriculture University, Peshawar, Pakistan and has professional experience of over 24 years.

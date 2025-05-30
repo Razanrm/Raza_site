@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: "doc"
+
+website:
+  title: "Raza Ullah Khan"
+  navbar:
+    left:
+    - text: "Home"
+      file: index.qmd
+    - text: "Portfolio"
+      file: portfolio.qmd
+    - text: "CV"
+      file: CV.qmd
+    right:
+    - icon: twitter
+      href: https://x.com/razahsan9
+    - icon: linkedin
+      href: https://www.linkedin.com/in/raza-khan-4a6b207b/
+    - icon: facebook
+      href: https://www.facebook.com/razaullahshah
+format:
+  html:
+    theme: solar
+    css: styles.css
+
+editor: visual
+
